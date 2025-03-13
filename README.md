@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-K-Means-Clustering-with-Python
+This project focuses on customer segmentation using K-Means Clustering, a popular unsupervised machine learning algorithm. By analyzing customer behavior and demographics, the model identifies distinct groups to help businesses tailor marketing strategies and improve customer experience.
